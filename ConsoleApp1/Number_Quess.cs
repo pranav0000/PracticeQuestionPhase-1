@@ -92,7 +92,7 @@ namespace ConsoleApp1
             Console.WriteLine($"No. of factors are :{m}");
 
 
-            //program 16 - Program to display number of even factors
+            // Program to display number of even factors
 
             m = 0; k=0;
             Console.WriteLine("Enter the Number ");
